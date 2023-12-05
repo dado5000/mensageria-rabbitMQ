@@ -1,0 +1,53 @@
+# Arquivos temporários gerados pelo sistema
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.tmp
+*.tmp.*
+*.swp
+*~
+
+# Pasta de saída do Maven
+target/
+
+# Arquivos de configuração do Eclipse
+.classpath
+.project
+.settings/
+
+# Configuração do IntelliJ IDEA
+.idea/
+
+# Configuração do NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Logs
+log/
+logs/
+
+# Arquivos de configuração
+*.iml
+*.ipr
+*.iws
+
+# Arquivos de compilação
+bin/
+out/
+
+# Arquivos de dependências
+.idea_modules/
+*.iml
+*.classpath
+*.project
+*.settings/
+
+# Arquivos específicos de sistema operacional
+Thumbs.db
+.DS_Store
